@@ -1,5 +1,5 @@
 # Training Data
-scripts
+*.csv
 
 # Envs
 .env
