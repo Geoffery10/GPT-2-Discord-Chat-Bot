@@ -1,6 +1,6 @@
 # GPT-2 Discord Chat Bot (2021)
 
-<img src="The_Child.webp" alt="Icon" style="display: block; margin: auto;" />
+<img src="The_Child_Small.webp" alt="Icon" style="display: block; margin: auto;" />
 
 ## Overview
 This is a Discord bot built with a custom-trained GPT-2 model for chat interaction. The bot uses CSV files as training data to power its conversational AI.
